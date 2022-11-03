@@ -1,0 +1,6 @@
+{
+    "repositories": ["jonasvinther/renovate-minimal-reproduction-2"],
+    "baseBranches": ["main"],
+    "extends": ["config:base"],
+    "prHourlyLimit": 0
+}
